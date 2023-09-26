@@ -1,9 +1,7 @@
 # PROJETO VINHERIA AGNELLO
 # Integrantes
-Nome: Gilson Dias Ramos Junior
-RM: 552345
-Nome: Joseh Gabriel Trimboli Agra
-RM: 553094
+- Nome: Gilson Dias Ramos Junior      RM: 552345 
+- Nome: Joseh Gabriel Trimboli Agra   RM: 553094
 
 # Sobre o projeto
 
@@ -156,9 +154,3 @@ void loop()
   delay(1000);
 }
 ```
-
-# Autor
-
-Gilson Dias Ramos Junior
-
-www.linkedin.com/in/gilson-dias-jn
